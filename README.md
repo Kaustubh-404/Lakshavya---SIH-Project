@@ -1,6 +1,6 @@
 # Lakshavya: Air Marshal Training Simulation
 
-![Lakshavya Logo/Image - If applicable](link/to/logo_or_image.png)
+
 
 ## Table of Contents
 - [Introduction](#introduction)
